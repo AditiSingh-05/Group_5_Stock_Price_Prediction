@@ -61,7 +61,7 @@ This project focuses on predicting the **next day's stock closing prices** using
 - Forecast multiple days ahead
 
 ## Group Members
-- Akash
+- Aashish Pandey
 - Aniruddha Singh
 - Akash
 - Anshul Anand
